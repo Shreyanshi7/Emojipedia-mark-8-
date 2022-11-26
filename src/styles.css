@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-top: 5rem;
+}
+
+h1 {
+  padding: 2rem;
+}
+h3 {
+  padding: 0.7rem;
+}
+input {
+  padding: 0.5rem;
+  width: 50%;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-bottom: 2rem;
+}
+
+body {
+  background-color: bisque;
+  margin: 0;
+}
